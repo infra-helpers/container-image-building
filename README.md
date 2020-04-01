@@ -1,10 +1,8 @@
 Induction to OCI Compliant Image Management
 ===========================================
 
-[![Docker Repository on Quay](https://quay.io/repository/artificialintelligence/python-alpine/status "Docker Repository on Quay")](https://quay.io/repository/artificialintelligence/python-alpine)
-
 # Overview
-[That project](ihttps://github.com/infra-helpers/container-image-building)
+[That project](https://github.com/infra-helpers/container-image-building)
 documents how to manage the life-cycle (_e.g._, specification, building,
 storage on registries, deployment, deletion) of Open Container Initiative
 (OCI) images. See the section below for more details on OCI.
